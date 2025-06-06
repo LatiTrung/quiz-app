@@ -1,0 +1,16 @@
+{
+  "name": "quiz-app",
+  "version": "1.0.0",
+  "description": "A quiz application to evaluate love trends between Gen X and Gen Z.",
+  "main": "src/js/app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "live-server src"
+  },
+  "dependencies": {
+    "jest": "^27.0.0"
+  },
+  "devDependencies": {},
+  "author": "Your Name",
+  "license": "MIT"
+}
